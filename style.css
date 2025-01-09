@@ -1,0 +1,30 @@
+* {
+margin : 0;
+padding : 0;
+box-sizing : border-box;
+}
+
+html, body {
+height : 100%;
+width: 100%;
+}
+
+#merry{
+    font-family: "Rubik Vinyl";
+}
+#delecious{
+    font-family: "Pacifico";
+    font-style: italic;
+}
+#jingle{
+    font-family: "Pacifico";
+    font-style: italic;
+    letter-spacing: 0.3em;
+    line-height: 3em;
+}
+#rightfont{
+    font-family: "Pacifico";
+}
+#order{
+    font-family: "Rubik Puddles";
+}
